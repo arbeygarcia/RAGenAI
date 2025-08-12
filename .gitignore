@@ -1,0 +1,4 @@
+.env
+arquivos/
+env/
+__pycache__/
